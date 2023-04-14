@@ -37,7 +37,9 @@ const useStyles = makeStyles({
 function Dashboard() {
   const classes = useStyles();
   const location = useLocation();
-  const address = location.pathname.split("/").pop();
+  const address = location.hash.split("#")[1];
+
+  console.log(address);
 
   const [balances, setBalances] = useState([]);
   const [totalFiat, setTotalFiat] = useState(null);
