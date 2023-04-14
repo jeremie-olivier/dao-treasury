@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dao-treasury/static/css/main.abd64e84.css",
-    "main.js": "/dao-treasury/static/js/main.8276f635.js",
+    "main.js": "/dao-treasury/static/js/main.c1525f1e.js",
     "index.html": "/dao-treasury/index.html",
     "main.abd64e84.css.map": "/dao-treasury/static/css/main.abd64e84.css.map",
-    "main.8276f635.js.map": "/dao-treasury/static/js/main.8276f635.js.map"
+    "main.c1525f1e.js.map": "/dao-treasury/static/js/main.c1525f1e.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.8276f635.js"
+    "static/js/main.c1525f1e.js"
   ]
 }
