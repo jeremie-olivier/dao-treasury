@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dao-treasury/static/css/main.abd64e84.css",
+    "main.js": "/dao-treasury/static/js/main.8276f635.js",
+    "index.html": "/dao-treasury/index.html",
+    "main.abd64e84.css.map": "/dao-treasury/static/css/main.abd64e84.css.map",
+    "main.8276f635.js.map": "/dao-treasury/static/js/main.8276f635.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.8276f635.js"
+  ]
+}
